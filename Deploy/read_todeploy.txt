@@ -1,0 +1,3 @@
+run deloy.sh
+and
+mannualy copy xcbglintegrations from-to plugins folder
